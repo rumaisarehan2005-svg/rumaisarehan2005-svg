@@ -1,4 +1,4 @@
-<!-- HEADER WAVE -->
+<!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,00FF9C&height=140&section=header&text=Hey%20👋%20I'm%20Rumaisa&fontSize=42&fontColor=00FF9C&animation=fadeIn&fontAlignY=55" />
 
 <div align="center">
@@ -23,6 +23,9 @@
 ---
 
 ## 👾 About Me
+
+**An AI student passionate about automation, cybersecurity & building real-world AI tools.**
+Email Me 👉 ✉️ **your@email.com** For Collaboration/Project or Anything Else. 😊
 
 ```python
 class Rumaisa:
@@ -49,17 +52,32 @@ class Rumaisa:
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Socials
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF9C)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF9C)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF9C)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/rumaisarehan2005)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=00FF9C)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00FF9C)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=00FF9C)
 
 </div>
 
@@ -109,19 +127,17 @@ $ rumaisa --status
 
 <div align="center">
 
-<img src="https://github.com/rumaisarehan2005/rumaisarehan2005/blob/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 </div>
 
 ---
 
-## 🌐 Socials
+### ✍️ Random Dev Quote
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/rumaisarehan2005)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF9C)](https://instagram.com)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -129,7 +145,7 @@ $ rumaisa --status
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+[![](https://visitcount.itsvg.in/api?id=rumaisarehan2005&icon=0&color=6)](https://visitcount.itsvg.in)
 
 ```
 > Always learning. Always building. Never stopping. 🖤
