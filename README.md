@@ -25,16 +25,16 @@
 
 ## ₊˚ ⊹ about me
 
-hi, i'm rumaisa 🎀 an AI student from hyderabad who builds websites, apps and automations, using AI as my co-pilot to go from idea to shipped *way* faster.
+Hi, I'm Rumaisa 🎀 an AI student from Hyderabad who builds websites, apps and automations, using AI as my co-pilot to go from idea to shipped *way* faster.
 
 - 🌷 &nbsp;building **web & app projects** with AI-assisted workflows
 - 🤖 &nbsp;automating boring stuff with **n8n** and AI agents
-- 🔐 &nbsp;**google certified** in cybersecurity, so i build with security in mind
-- 💭 &nbsp;goal: automate everything before i graduate
+- 🔐 &nbsp;**Google certified** in cybersecurity, so I build with security in mind
+- 💭 &nbsp;goal: automate everything before I graduate
 
 <br>
 
-## ₊˚ ⊹ what i build
+## ₊˚ ⊹ what I build
 
 | | |
 |:--|:--|
@@ -47,9 +47,9 @@ hi, i'm rumaisa 🎀 an AI student from hyderabad who builds websites, apps and 
 
 ## ₊˚ ⊹ stack
 
-🐍 `Python` &nbsp; ☕ `Java` &nbsp; 🗄️ `SQL` &nbsp; 🌐 `HTML` &nbsp; 🎨 `CSS` &nbsp; ⚡ `JavaScript` &nbsp; ⚛️ `React`
+🐍 `Python` &nbsp; ☕ `Java` &nbsp; 🗄️ `SQL` &nbsp; ⚡ `JavaScript` &nbsp; ⚛️ `React` &nbsp; ▲ `Next.js`
 
-▲ `Vercel` &nbsp; ⚙️ `n8n` &nbsp; 🔢 `NumPy` &nbsp; 🐼 `Pandas` &nbsp; 🌿 `Git` &nbsp; 💻 `VS Code`
+🦜 `LangChain` &nbsp; 🚀 `FastAPI` &nbsp; ⚙️ `n8n` &nbsp; 🔢 `NumPy` &nbsp; 🐼 `Pandas` &nbsp; 🌿 `Git` &nbsp; 💻 `VS Code`
 
 <br>
 
@@ -74,7 +74,9 @@ hi, i'm rumaisa 🎀 an AI student from hyderabad who builds websites, apps and 
 
 <div align="center">
 
-🌸 [**portfolio**](https://rumaisa.vercel.app/) &nbsp;·&nbsp; 💼 [**linkedin**](https://linkedin.com) &nbsp;·&nbsp; 📸 [**instagram**](https://instagram.com) &nbsp;·&nbsp; 💌 [**email**](mailto:your@email.com)
+🌸 [**Portfolio**](https://rumaisa.vercel.app/) &nbsp;·&nbsp; 💼 [**LinkedIn**](https://www.linkedin.com/in/rumaisa-rehan-b713ab301/) &nbsp;·&nbsp; 🐦 [**X (Twitter)**](https://x.com/rumaisa_rehan_)
+
+💌 [**rumaisarehan124@gmail.com**](mailto:rumaisarehan124@gmail.com) &nbsp;·&nbsp; 🎧 **Discord:** `rumaisa_rehan`
 
 <br>
 
