@@ -1,51 +1,83 @@
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=170&section=header&text=rumaisa&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=ai-assisted%20web%20%26%20app%20developer&descSize=16&descAlignY=60" /> <br>
-
-✿   ai undergrad  ·  web & app builder  ·  automation nerd   ✿
-
-<br><br>
-
-<a href="https://rumaisa.vercel.app/"> <img src="https://img.shields.io/badge/✦_visit_my_portfolio-ff4fa3?style=for-the-badge&labelColor=1a0b14" /> </a> </div> <br>
-₊˚ ⊹ about me
-
-hi, i'm rumaisa 🎀 an AI student from Hyderabad who builds websites, apps and automations, using AI as my co-pilot to go from idea to shipped way faster.
-
-🌷  building web & app projects with ai-assisted workflows
-🤖  automating boring stuff with n8n and ai agents
-🔐  google certified in cybersecurity, so i build with security in mind
-💭  goal: automate everything before i graduate
-<br>
-₊˚ ⊹ what i build
-	
-🌐 websites	clean, responsive, fast
-📱 apps	ideas turned into working products
-⚙️ automations	workflows & ai agents that save time
-🛡️ security	safer by default
-<br>
-₊˚ ⊹ stack
 <div align="center">
 
-Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
+```
+██████╗ ██╗   ██╗███╗   ███╗ █████╗ ██╗███████╗ █████╗
+██╔══██╗██║   ██║████╗ ████║██╔══██╗██║██╔════╝██╔══██╗
+██████╔╝██║   ██║██╔████╔██║███████║██║███████╗███████║
+██╔══██╗██║   ██║██║╚██╔╝██║██╔══██║██║╚════██║██╔══██║
+██║  ██║╚██████╔╝██║ ╚═╝ ██║██║  ██║██║███████║██║  ██║
+╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝
+```
 
-</div> <br>
-₊˚ ⊹ currently
-text
-✿ learning      →  n8n, ai agents, full-stack dev
-✿ building      →  ai-assisted web & app projects
-✿ next up       →  shipping my first ai automation
-✿ open to       →  collabs on ai/ml & cybersecurity projects
+### 🎀 AI-Assisted Web & App Developer 🎀
+
+✿ AI undergrad &nbsp;·&nbsp; web & app builder &nbsp;·&nbsp; automation nerd ✿
+
 <br>
-₊˚ ⊹ certified
 
-Show Image
+### ✦ [**visit my portfolio → rumaisa.vercel.app**](https://rumaisa.vercel.app/) ✦
+
+</div>
 
 <br>
-₊˚ ⊹ let's connect
+
+---
+
+## ₊˚ ⊹ about me
+
+hi, i'm rumaisa 🎀 an AI student from hyderabad who builds websites, apps and automations, using AI as my co-pilot to go from idea to shipped *way* faster.
+
+- 🌷 &nbsp;building **web & app projects** with AI-assisted workflows
+- 🤖 &nbsp;automating boring stuff with **n8n** and AI agents
+- 🔐 &nbsp;**google certified** in cybersecurity, so i build with security in mind
+- 💭 &nbsp;goal: automate everything before i graduate
+
+<br>
+
+## ₊˚ ⊹ what i build
+
+| | |
+|:--|:--|
+| 🌐 **websites** | clean, responsive, fast |
+| 📱 **apps** | ideas turned into working products |
+| ⚙️ **automations** | workflows & AI agents that save time |
+| 🛡️ **security** | safer by default |
+
+<br>
+
+## ₊˚ ⊹ stack
+
+🐍 `Python` &nbsp; ☕ `Java` &nbsp; 🗄️ `SQL` &nbsp; 🌐 `HTML` &nbsp; 🎨 `CSS` &nbsp; ⚡ `JavaScript` &nbsp; ⚛️ `React`
+
+▲ `Vercel` &nbsp; ⚙️ `n8n` &nbsp; 🔢 `NumPy` &nbsp; 🐼 `Pandas` &nbsp; 🌿 `Git` &nbsp; 💻 `VS Code`
+
+<br>
+
+## ₊˚ ⊹ currently
+
+```text
+✿ learning   →  n8n, AI agents, full-stack dev
+✿ building   →  AI-assisted web & app projects
+✿ next up    →  shipping my first AI automation
+✿ open to    →  collabs on AI/ML & cybersecurity projects
+```
+
+<br>
+
+## ₊˚ ⊹ certified
+
+🔐 **Google Cybersecurity Certificate** — foundations of cybersecurity, threat analysis & incident response
+
+<br>
+
+## ₊˚ ⊹ let's connect
+
 <div align="center">
 
-portfolio linkedin instagram email
+🌸 [**portfolio**](https://rumaisa.vercel.app/) &nbsp;·&nbsp; 💼 [**linkedin**](https://linkedin.com) &nbsp;·&nbsp; 📸 [**instagram**](https://instagram.com) &nbsp;·&nbsp; 💌 [**email**](mailto:your@email.com)
 
 <br>
 
-always learning, always building 🎀
+*always learning, always building* 🎀
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=90&section=footer" /> </div>
+</div>
